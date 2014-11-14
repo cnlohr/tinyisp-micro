@@ -1,0 +1,21 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Thu 13 Nov 2014 01:54:19 PM EST
+#Cmp ( order = Reference )
+| D1         5050RGB     ; N/A -> Use EBAY; Cheap       ;             ;             ;             ;             ;             ;             
+| J1         AVRISP6     ; 952-1922-ND ; .43         ;             ;             ;             ;             ;             ;             
+| P1         PGM         ;             ;             ;             ;             ;             ;             ;             ;             
+| P2         REG         ;             ;             ;             ;             ;             ;             ;             ;             
+| P3         MODE        ;             ;             ;             ;             ;             ;             ;             ;             
+| P4         USB         ; 151-1206-1-ND; .41         ;             ;             ;             ;             ;             ;             
+| U1         10p         ; 445-1875-1-ND; .29         ;             ;             ;             ;             ;             ;             
+| U2         150         ; YC164J-150CT-ND; .10         ;             ;             ;             ;             ;             ;             
+| U3         MCP1824     ; MCP1824T-3302E/OTCT-ND; .50         ;             ;             ;             ;             ;             ;             
+| U4         ATTINYX4    ; ATTINY44A-SSU-ND ; 1.52        ;             ;             ;             ;             ;             ;             
+| U5         1u          ; 445-8921-1-ND; .36         ;             ;             ;             ;             ;             ;             
+| U6         1.5k        ; YC164J-1.5KCT-ND; .10         ;             ;             ;             ;             ;             ;             
+| U7         33          ; 742C043330JPCT-ND; .10         ;             ;             ;             ;             ;             ;             
+| X1         NOPOP       ;             ;             ;             ;             ;             ;             ;             ;             
+| X2         NOPOP       ;             ;             ;             ;             ;             ;             ;             ;             
+| X3         XTAL4P      ; 1253-1166-1-ND; 0.69000     ;             ;             ;             ;             ;             ;             
+#End Cmp
+
+#End List
