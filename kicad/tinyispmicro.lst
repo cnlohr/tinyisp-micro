@@ -1,11 +1,11 @@
-eeschema (2013-jul-07)-stable  >> Creation date: Thu 18 Dec 2014 02:17:16 PM EST
+eeschema (2013-jul-07)-stable  >> Creation date: Thu 18 Dec 2014 02:22:15 PM EST
 #Cmp ( order = Reference )
 | D1         5050RGB     ; N/A -> Use EBAY; Cheap       ;             ;             ;             ;             ;             ;             
 | J1         AVRISP6     ; 952-1922-ND ; .43         ;             ;             ;             ;             ;             ;             
 | P1         PGM         ;             ;             ;             ;             ;             ;             ;             ;             
 | P2         REG         ;             ;             ;             ;             ;             ;             ;             ;             
 | P3         MODE        ;             ;             ;             ;             ;             ;             ;             ;             
-| P4         USB         ; H11671CT-ND ; .41         ;             ;             ;             ;             ;             ;             
+| P4         USB         ; H11671CT-ND ; .80         ;             ;             ;             ;             ;             ;             
 | U1         10p         ; 445-1875-1-ND; .29         ;             ;             ;             ;             ;             ;             
 | U2         150         ; YC164J-150CT-ND; .10         ;             ;             ;             ;             ;             ;             
 | U3         MCP1824     ; MCP1824T-3302E/OTCT-ND; .50         ;             ;             ;             ;             ;             ;             

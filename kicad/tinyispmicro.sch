@@ -104,7 +104,7 @@ F 1 "USB" V 8270 2650 60  0000 C CNN
 F 2 "USB-MiniB" H 8200 2650 60  0000 C CNN
 F 3 "NOTE: Break off plastic grabbers." H 8150 2050 60  0000 C CNN
 F 4 "H11671CT-ND" V 8200 2650 60  0001 C CNN "Digikey"
-F 5 ".41" V 8200 2650 60  0001 C CNN "Cost1"
+F 5 ".80" V 8200 2650 60  0001 C CNN "Cost1"
 	1    8200 2650
 	1    0    0    -1  
 $EndComp
