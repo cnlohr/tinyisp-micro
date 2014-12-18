@@ -6,7 +6,8 @@ My USBTinyISP (with an ATTiny44)
 Available from OSH Park here:
 	https://oshpark.com/shared_projects/ijclv4pr
 
-BOM Is pretty cheap.  Check the kicad folder for more info.
+BOM Is pretty cheap.  Check the kicad folder for more info.  The file is called
+tinyispmicro.lst.
 
 Firmware is slightly modified from the regular USBTinyISP.
 
