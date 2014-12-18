@@ -67,13 +67,14 @@ LIBS:um5k1ntr
 LIBS:ws2812b
 LIBS:zener-sot23-3
 LIBS:network0606
+LIBS:tinyispmicro-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "13 nov 2014"
+Date "18 dec 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -102,7 +103,7 @@ F 0 "P4" V 8170 2650 60  0000 C CNN
 F 1 "USB" V 8270 2650 60  0000 C CNN
 F 2 "USB-MiniB" H 8200 2650 60  0000 C CNN
 F 3 "NOTE: Break off plastic grabbers." H 8150 2050 60  0000 C CNN
-F 4 "151-1206-1-ND" V 8200 2650 60  0001 C CNN "Digikey"
+F 4 "H11671CT-ND" V 8200 2650 60  0001 C CNN "Digikey"
 F 5 ".41" V 8200 2650 60  0001 C CNN "Cost1"
 	1    8200 2650
 	1    0    0    -1  
